@@ -1,15 +1,9 @@
-# Uni-DataStructure-HolidaySystem
+# Uni-GameEngine
 
-This project was part of an assignment in my 3rd year of university were we had to implement multiple data structures within a system.
-I decided to create a holiday ticket system.
+This project was part of an assignment in my 3rd year of university were we had to create a game engine using a number of frameworks.
 
-##Class Diagram
-- https://i.imgur.com/CMjsxQQ.png
-
-##UML Diagrams
-- https://i.imgur.com/TuyGKQl.png
-- https://i.imgur.com/4uk8t45.png
-- https://i.imgur.com/amaRnpI.png
-
-##Screenshots
-- https://i.imgur.com/b5N3M7P.png
+## Frameworks Used
+- bullet Physics
+- glew/glut
+- lua
+- fbx
